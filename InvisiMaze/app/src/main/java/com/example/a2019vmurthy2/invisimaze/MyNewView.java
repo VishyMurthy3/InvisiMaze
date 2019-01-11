@@ -102,7 +102,7 @@ public class MyNewView extends View implements Runnable{
 
     private void initializePaint() {
         mPaint = new Paint();
-        mPaint.setColor(Color.WHITE);
+        mPaint.setColor(Color.CYAN);
         mPaint.setAntiAlias(true);
         mPaint.setStyle(Paint.Style.FILL);
     }
